@@ -1,5 +1,5 @@
-//Nombre y Apellido:
-//Curso: 6to b
+//Nombre y Apellido: Baltazar López
+//Curso: 6to B
 //Grupo: 604
 //Taller de Programacion III
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
